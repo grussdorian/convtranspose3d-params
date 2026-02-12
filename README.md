@@ -7,7 +7,7 @@ This code accompanies the paper:
 **Proofs for parameter calculation for isotropic kernels with uniform dilation of 1**  
 Hardik Ghoshal  
 Technische Universität Dresden  
-[arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+[Paper](https://zenodo.org/records/18623746)
 
 ## Features
 
